@@ -1,0 +1,1 @@
+export { RestaurantIntelligence } from './RestaurantIntelligence';

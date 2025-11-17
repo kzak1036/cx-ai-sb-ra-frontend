@@ -1,0 +1,1 @@
+export { MenuAnalyticsPage } from './MenuAnalyticsPage';

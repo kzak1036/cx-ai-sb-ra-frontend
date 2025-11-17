@@ -1,0 +1,1 @@
+export { MenuIntelligencePage } from './MenuIntelligencePage';
